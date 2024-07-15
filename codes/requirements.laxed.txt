@@ -36,7 +36,7 @@ audio2numpy
 SoundFile
 
 # For text stuff
-transformers
+transformers==4.29.02
 tokenizers
 jiwer  # calculating WER
 omegaconf
